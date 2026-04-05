@@ -1,0 +1,681 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\petry\\source\\repos\\RoomService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A68B80-87B7-445B-8752-A28E34E62BC9}|RoomService\\RoomService.csproj|c:\\users\\petry\\source\\repos\\roomservice\\roomservice\\tests\\slotservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A68B80-87B7-445B-8752-A28E34E62BC9}|RoomService\\RoomService.csproj|solutionrelative:roomservice\\tests\\slotservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A68B80-87B7-445B-8752-A28E34E62BC9}|RoomService\\RoomService.csproj|c:\\users\\petry\\source\\repos\\roomservice\\roomservice\\tests\\scheduleservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A68B80-87B7-445B-8752-A28E34E62BC9}|RoomService\\RoomService.csproj|solutionrelative:roomservice\\tests\\scheduleservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A68B80-87B7-445B-8752-A28E34E62BC9}|RoomService\\RoomService.csproj|c:\\users\\petry\\source\\repos\\roomservice\\roomservice\\tests\\roomservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A68B80-87B7-445B-8752-A28E34E62BC9}|RoomService\\RoomService.csproj|solutionrelative:roomservice\\tests\\roomservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A68B80-87B7-445B-8752-A28E34E62BC9}|RoomService\\RoomService.csproj|c:\\users\\petry\\source\\repos\\roomservice\\roomservice\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A68B80-87B7-445B-8752-A28E34E62BC9}|RoomService\\RoomService.csproj|solutionrelative:roomservice\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A68B80-87B7-445B-8752-A28E34E62BC9}|RoomService\\RoomService.csproj|c:\\users\\petry\\source\\repos\\roomservice\\roomservice\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A68B80-87B7-445B-8752-A28E34E62BC9}|RoomService\\RoomService.csproj|solutionrelative:roomservice\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A68B80-87B7-445B-8752-A28E34E62BC9}|RoomService\\RoomService.csproj|c:\\users\\petry\\source\\repos\\roomservice\\roomservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A68B80-87B7-445B-8752-A28E34E62BC9}|RoomService\\RoomService.csproj|solutionrelative:roomservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A68B80-87B7-445B-8752-A28E34E62BC9}|RoomService\\RoomService.csproj|c:\\users\\petry\\source\\repos\\roomservice\\roomservice\\roomservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A6A68B80-87B7-445B-8752-A28E34E62BC9}|RoomService\\RoomService.csproj|solutionrelative:roomservice\\roomservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A68B80-87B7-445B-8752-A28E34E62BC9}|RoomService\\RoomService.csproj|c:\\users\\petry\\source\\repos\\roomservice\\roomservice\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A68B80-87B7-445B-8752-A28E34E62BC9}|RoomService\\RoomService.csproj|solutionrelative:roomservice\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A68B80-87B7-445B-8752-A28E34E62BC9}|RoomService\\RoomService.csproj|c:\\users\\petry\\source\\repos\\roomservice\\roomservice\\services\\conferencelinkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A68B80-87B7-445B-8752-A28E34E62BC9}|RoomService\\RoomService.csproj|solutionrelative:roomservice\\services\\conferencelinkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A68B80-87B7-445B-8752-A28E34E62BC9}|RoomService\\RoomService.csproj|c:\\users\\petry\\source\\repos\\roomservice\\roomservice\\services\\iconferencelinkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A68B80-87B7-445B-8752-A28E34E62BC9}|RoomService\\RoomService.csproj|solutionrelative:roomservice\\services\\iconferencelinkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A68B80-87B7-445B-8752-A28E34E62BC9}|RoomService\\RoomService.csproj|c:\\users\\petry\\source\\repos\\roomservice\\roomservice\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A68B80-87B7-445B-8752-A28E34E62BC9}|RoomService\\RoomService.csproj|solutionrelative:roomservice\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A68B80-87B7-445B-8752-A28E34E62BC9}|RoomService\\RoomService.csproj|c:\\users\\petry\\source\\repos\\roomservice\\roomservice\\services\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A68B80-87B7-445B-8752-A28E34E62BC9}|RoomService\\RoomService.csproj|solutionrelative:roomservice\\services\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A68B80-87B7-445B-8752-A28E34E62BC9}|RoomService\\RoomService.csproj|c:\\users\\petry\\source\\repos\\roomservice\\roomservice\\dtos\\bookingdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A68B80-87B7-445B-8752-A28E34E62BC9}|RoomService\\RoomService.csproj|solutionrelative:roomservice\\dtos\\bookingdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A68B80-87B7-445B-8752-A28E34E62BC9}|RoomService\\RoomService.csproj|c:\\users\\petry\\source\\repos\\roomservice\\roomservice\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A68B80-87B7-445B-8752-A28E34E62BC9}|RoomService\\RoomService.csproj|solutionrelative:roomservice\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A68B80-87B7-445B-8752-A28E34E62BC9}|RoomService\\RoomService.csproj|c:\\users\\petry\\source\\repos\\roomservice\\roomservice\\services\\scheduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A68B80-87B7-445B-8752-A28E34E62BC9}|RoomService\\RoomService.csproj|solutionrelative:roomservice\\services\\scheduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A68B80-87B7-445B-8752-A28E34E62BC9}|RoomService\\RoomService.csproj|c:\\users\\petry\\source\\repos\\roomservice\\roomservice\\services\\ischudleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A68B80-87B7-445B-8752-A28E34E62BC9}|RoomService\\RoomService.csproj|solutionrelative:roomservice\\services\\ischudleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A68B80-87B7-445B-8752-A28E34E62BC9}|RoomService\\RoomService.csproj|c:\\users\\petry\\source\\repos\\roomservice\\roomservice\\dtos\\scheduledtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A68B80-87B7-445B-8752-A28E34E62BC9}|RoomService\\RoomService.csproj|solutionrelative:roomservice\\dtos\\scheduledtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A68B80-87B7-445B-8752-A28E34E62BC9}|RoomService\\RoomService.csproj|c:\\users\\petry\\source\\repos\\roomservice\\roomservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A6A68B80-87B7-445B-8752-A28E34E62BC9}|RoomService\\RoomService.csproj|solutionrelative:roomservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A68B80-87B7-445B-8752-A28E34E62BC9}|RoomService\\RoomService.csproj|c:\\users\\petry\\source\\repos\\roomservice\\roomservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A6A68B80-87B7-445B-8752-A28E34E62BC9}|RoomService\\RoomService.csproj|solutionrelative:roomservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A68B80-87B7-445B-8752-A28E34E62BC9}|RoomService\\RoomService.csproj|c:\\users\\petry\\source\\repos\\roomservice\\roomservice\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A68B80-87B7-445B-8752-A28E34E62BC9}|RoomService\\RoomService.csproj|solutionrelative:roomservice\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|c:\\users\\petry\\source\\repos\\roomservice\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|c:\\users\\petry\\source\\repos\\roomservice\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A68B80-87B7-445B-8752-A28E34E62BC9}|RoomService\\RoomService.csproj|c:\\users\\petry\\source\\repos\\roomservice\\roomservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A6A68B80-87B7-445B-8752-A28E34E62BC9}|RoomService\\RoomService.csproj|solutionrelative:roomservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A68B80-87B7-445B-8752-A28E34E62BC9}|RoomService\\RoomService.csproj|c:\\users\\petry\\source\\repos\\roomservice\\roomservice\\roomservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A6A68B80-87B7-445B-8752-A28E34E62BC9}|RoomService\\RoomService.csproj|solutionrelative:roomservice\\roomservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A68B80-87B7-445B-8752-A28E34E62BC9}|RoomService\\RoomService.csproj|c:\\users\\petry\\source\\repos\\roomservice\\roomservice\\services\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A68B80-87B7-445B-8752-A28E34E62BC9}|RoomService\\RoomService.csproj|solutionrelative:roomservice\\services\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A68B80-87B7-445B-8752-A28E34E62BC9}|RoomService\\RoomService.csproj|c:\\users\\petry\\source\\repos\\roomservice\\roomservice\\services\\iroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A68B80-87B7-445B-8752-A28E34E62BC9}|RoomService\\RoomService.csproj|solutionrelative:roomservice\\services\\iroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A68B80-87B7-445B-8752-A28E34E62BC9}|RoomService\\RoomService.csproj|c:\\users\\petry\\source\\repos\\roomservice\\roomservice\\dtos\\roomdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A68B80-87B7-445B-8752-A28E34E62BC9}|RoomService\\RoomService.csproj|solutionrelative:roomservice\\dtos\\roomdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A68B80-87B7-445B-8752-A28E34E62BC9}|RoomService\\RoomService.csproj|c:\\users\\petry\\source\\repos\\roomservice\\roomservice\\dtos\\paginationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A68B80-87B7-445B-8752-A28E34E62BC9}|RoomService\\RoomService.csproj|solutionrelative:roomservice\\dtos\\paginationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|c:\\users\\petry\\source\\repos\\roomservice\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|c:\\users\\petry\\source\\repos\\roomservice\\docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A68B80-87B7-445B-8752-A28E34E62BC9}|RoomService\\RoomService.csproj|c:\\users\\petry\\source\\repos\\roomservice\\roomservice\\dtos\\authdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A68B80-87B7-445B-8752-A28E34E62BC9}|RoomService\\RoomService.csproj|solutionrelative:roomservice\\dtos\\authdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A68B80-87B7-445B-8752-A28E34E62BC9}|RoomService\\RoomService.csproj|c:\\users\\petry\\source\\repos\\roomservice\\roomservice\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A68B80-87B7-445B-8752-A28E34E62BC9}|RoomService\\RoomService.csproj|solutionrelative:roomservice\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A68B80-87B7-445B-8752-A28E34E62BC9}|RoomService\\RoomService.csproj|c:\\users\\petry\\source\\repos\\roomservice\\roomservice\\models\\slot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A68B80-87B7-445B-8752-A28E34E62BC9}|RoomService\\RoomService.csproj|solutionrelative:roomservice\\models\\slot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A68B80-87B7-445B-8752-A28E34E62BC9}|RoomService\\RoomService.csproj|c:\\users\\petry\\source\\repos\\roomservice\\roomservice\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A68B80-87B7-445B-8752-A28E34E62BC9}|RoomService\\RoomService.csproj|solutionrelative:roomservice\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A68B80-87B7-445B-8752-A28E34E62BC9}|RoomService\\RoomService.csproj|c:\\users\\petry\\source\\repos\\roomservice\\roomservice\\models\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A68B80-87B7-445B-8752-A28E34E62BC9}|RoomService\\RoomService.csproj|solutionrelative:roomservice\\models\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A68B80-87B7-445B-8752-A28E34E62BC9}|RoomService\\RoomService.csproj|c:\\users\\petry\\source\\repos\\roomservice\\roomservice\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A68B80-87B7-445B-8752-A28E34E62BC9}|RoomService\\RoomService.csproj|solutionrelative:roomservice\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A68B80-87B7-445B-8752-A28E34E62BC9}|RoomService\\RoomService.csproj|c:\\users\\petry\\source\\repos\\roomservice\\roomservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A68B80-87B7-445B-8752-A28E34E62BC9}|RoomService\\RoomService.csproj|solutionrelative:roomservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SlotServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\petry\\source\\repos\\RoomService\\RoomService\\Tests\\SlotServiceTests.cs",
+              "RelativeDocumentMoniker": "RoomService\\Tests\\SlotServiceTests.cs",
+              "ToolTip": "C:\\Users\\petry\\source\\repos\\RoomService\\RoomService\\Tests\\SlotServiceTests.cs",
+              "RelativeToolTip": "RoomService\\Tests\\SlotServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T05:49:43.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScheduleServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\petry\\source\\repos\\RoomService\\RoomService\\Tests\\ScheduleServiceTests.cs",
+              "RelativeDocumentMoniker": "RoomService\\Tests\\ScheduleServiceTests.cs",
+              "ToolTip": "C:\\Users\\petry\\source\\repos\\RoomService\\RoomService\\Tests\\ScheduleServiceTests.cs",
+              "RelativeToolTip": "RoomService\\Tests\\ScheduleServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T05:48:06.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoomServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\petry\\source\\repos\\RoomService\\RoomService\\Tests\\RoomServiceTests.cs",
+              "RelativeDocumentMoniker": "RoomService\\Tests\\RoomServiceTests.cs",
+              "ToolTip": "C:\\Users\\petry\\source\\repos\\RoomService\\RoomService\\Tests\\RoomServiceTests.cs",
+              "RelativeToolTip": "RoomService\\Tests\\RoomServiceTests.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAqwFMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T05:43:47.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RoomService.http",
+              "DocumentMoniker": "C:\\Users\\petry\\source\\repos\\RoomService\\RoomService\\RoomService.http",
+              "RelativeDocumentMoniker": "RoomService\\RoomService.http",
+              "ToolTip": "C:\\Users\\petry\\source\\repos\\RoomService\\RoomService\\RoomService.http",
+              "RelativeToolTip": "RoomService\\RoomService.http",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-04-04T17:51:29.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\petry\\source\\repos\\RoomService\\RoomService\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "RoomService\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\petry\\source\\repos\\RoomService\\RoomService\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "RoomService\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T16:33:04.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\petry\\source\\repos\\RoomService\\RoomService\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "RoomService\\Data\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\petry\\source\\repos\\RoomService\\RoomService\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "RoomService\\Data\\DbInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T16:26:23.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BookingDtos.cs",
+              "DocumentMoniker": "C:\\Users\\petry\\source\\repos\\RoomService\\RoomService\\DTOs\\BookingDtos.cs",
+              "RelativeDocumentMoniker": "RoomService\\DTOs\\BookingDtos.cs",
+              "ToolTip": "C:\\Users\\petry\\source\\repos\\RoomService\\RoomService\\DTOs\\BookingDtos.cs",
+              "RelativeToolTip": "RoomService\\DTOs\\BookingDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T18:24:47.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\petry\\source\\repos\\RoomService\\RoomService\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "RoomService\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\petry\\source\\repos\\RoomService\\RoomService\\Services\\AuthService.cs",
+              "RelativeToolTip": "RoomService\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T16:31:01.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IBookingService.cs",
+              "DocumentMoniker": "C:\\Users\\petry\\source\\repos\\RoomService\\RoomService\\Services\\IBookingService.cs",
+              "RelativeDocumentMoniker": "RoomService\\Services\\IBookingService.cs",
+              "ToolTip": "C:\\Users\\petry\\source\\repos\\RoomService\\RoomService\\Services\\IBookingService.cs",
+              "RelativeToolTip": "RoomService\\Services\\IBookingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T18:25:55.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookingService.cs",
+              "DocumentMoniker": "C:\\Users\\petry\\source\\repos\\RoomService\\RoomService\\Services\\BookingService.cs",
+              "RelativeDocumentMoniker": "RoomService\\Services\\BookingService.cs",
+              "ToolTip": "C:\\Users\\petry\\source\\repos\\RoomService\\RoomService\\Services\\BookingService.cs",
+              "RelativeToolTip": "RoomService\\Services\\BookingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T18:26:49.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IConferenceLinkService.cs",
+              "DocumentMoniker": "C:\\Users\\petry\\source\\repos\\RoomService\\RoomService\\Services\\IConferenceLinkService.cs",
+              "RelativeDocumentMoniker": "RoomService\\Services\\IConferenceLinkService.cs",
+              "ToolTip": "C:\\Users\\petry\\source\\repos\\RoomService\\RoomService\\Services\\IConferenceLinkService.cs",
+              "RelativeToolTip": "RoomService\\Services\\IConferenceLinkService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T18:27:51.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConferenceLinkService.cs",
+              "DocumentMoniker": "C:\\Users\\petry\\source\\repos\\RoomService\\RoomService\\Services\\ConferenceLinkService.cs",
+              "RelativeDocumentMoniker": "RoomService\\Services\\ConferenceLinkService.cs",
+              "ToolTip": "C:\\Users\\petry\\source\\repos\\RoomService\\RoomService\\Services\\ConferenceLinkService.cs",
+              "RelativeToolTip": "RoomService\\Services\\ConferenceLinkService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T18:28:28.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookingsController.cs",
+              "DocumentMoniker": "C:\\Users\\petry\\source\\repos\\RoomService\\RoomService\\Controllers\\BookingsController.cs",
+              "RelativeDocumentMoniker": "RoomService\\Controllers\\BookingsController.cs",
+              "ToolTip": "C:\\Users\\petry\\source\\repos\\RoomService\\RoomService\\Controllers\\BookingsController.cs",
+              "RelativeToolTip": "RoomService\\Controllers\\BookingsController.cs",
+              "ViewState": "AgIAALoAAAAAAAAAAAAkwOEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T18:29:11.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ScheduleService.cs",
+              "DocumentMoniker": "C:\\Users\\petry\\source\\repos\\RoomService\\RoomService\\Services\\ScheduleService.cs",
+              "RelativeDocumentMoniker": "RoomService\\Services\\ScheduleService.cs",
+              "ToolTip": "C:\\Users\\petry\\source\\repos\\RoomService\\RoomService\\Services\\ScheduleService.cs",
+              "RelativeToolTip": "RoomService\\Services\\ScheduleService.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAowAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T18:10:12.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ISchudleService.cs",
+              "DocumentMoniker": "C:\\Users\\petry\\source\\repos\\RoomService\\RoomService\\Services\\ISchudleService.cs",
+              "RelativeDocumentMoniker": "RoomService\\Services\\ISchudleService.cs",
+              "ToolTip": "C:\\Users\\petry\\source\\repos\\RoomService\\RoomService\\Services\\ISchudleService.cs",
+              "RelativeToolTip": "RoomService\\Services\\ISchudleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T18:09:06.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ScheduleDtos.cs",
+              "DocumentMoniker": "C:\\Users\\petry\\source\\repos\\RoomService\\RoomService\\DTOs\\ScheduleDtos.cs",
+              "RelativeDocumentMoniker": "RoomService\\DTOs\\ScheduleDtos.cs",
+              "ToolTip": "C:\\Users\\petry\\source\\repos\\RoomService\\RoomService\\DTOs\\ScheduleDtos.cs",
+              "RelativeToolTip": "RoomService\\DTOs\\ScheduleDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T18:07:54.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\petry\\source\\repos\\RoomService\\RoomService\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "RoomService\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\petry\\source\\repos\\RoomService\\RoomService\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "RoomService\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wCAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T16:24:44.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IRoomService.cs",
+              "DocumentMoniker": "C:\\Users\\petry\\source\\repos\\RoomService\\RoomService\\Services\\IRoomService.cs",
+              "RelativeDocumentMoniker": "RoomService\\Services\\IRoomService.cs",
+              "ToolTip": "C:\\Users\\petry\\source\\repos\\RoomService\\RoomService\\Services\\IRoomService.cs",
+              "RelativeToolTip": "RoomService\\Services\\IRoomService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T17:20:39.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RoomDtos.cs",
+              "DocumentMoniker": "C:\\Users\\petry\\source\\repos\\RoomService\\RoomService\\DTOs\\RoomDtos.cs",
+              "RelativeDocumentMoniker": "RoomService\\DTOs\\RoomDtos.cs",
+              "ToolTip": "C:\\Users\\petry\\source\\repos\\RoomService\\RoomService\\DTOs\\RoomDtos.cs",
+              "RelativeToolTip": "RoomService\\DTOs\\RoomDtos.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T16:29:13.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\petry\\source\\repos\\RoomService\\RoomService\\appsettings.json",
+              "RelativeDocumentMoniker": "RoomService\\appsettings.json",
+              "ToolTip": "C:\\Users\\petry\\source\\repos\\RoomService\\RoomService\\appsettings.json",
+              "RelativeToolTip": "RoomService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-04T16:26:46.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RoomService.cs",
+              "DocumentMoniker": "C:\\Users\\petry\\source\\repos\\RoomService\\RoomService\\Services\\RoomService.cs",
+              "RelativeDocumentMoniker": "RoomService\\Services\\RoomService.cs",
+              "ToolTip": "C:\\Users\\petry\\source\\repos\\RoomService\\RoomService\\Services\\RoomService.cs",
+              "RelativeToolTip": "RoomService\\Services\\RoomService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T17:21:43.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Microsoft.VisualStudio.Docker.Compose.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "ViewState": "AgIAAKIBAAAAAAAAAAAkwLcBAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-04-04T17:25:46.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\petry\\source\\repos\\RoomService\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\petry\\source\\repos\\RoomService\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAwAAAAAAAAAAIBJwCQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-04-04T17:36:47.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RoomController.cs",
+              "DocumentMoniker": "C:\\Users\\petry\\source\\repos\\RoomService\\RoomService\\Controllers\\RoomController.cs",
+              "RelativeDocumentMoniker": "RoomService\\Controllers\\RoomController.cs",
+              "ToolTip": "C:\\Users\\petry\\source\\repos\\RoomService\\RoomService\\Controllers\\RoomController.cs",
+              "RelativeToolTip": "RoomService\\Controllers\\RoomController.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAkwGQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T17:23:08.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\petry\\source\\repos\\RoomService\\launchSettings.json",
+              "RelativeDocumentMoniker": "launchSettings.json",
+              "ToolTip": "C:\\Users\\petry\\source\\repos\\RoomService\\launchSettings.json",
+              "RelativeToolTip": "launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-04T18:04:24.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\petry\\source\\repos\\RoomService\\RoomService\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "RoomService\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\petry\\source\\repos\\RoomService\\RoomService\\appsettings.Development.json",
+              "RelativeToolTip": "RoomService\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-04T18:05:06.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\petry\\source\\repos\\RoomService\\RoomService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "RoomService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\petry\\source\\repos\\RoomService\\RoomService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "RoomService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-04T18:02:57.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RoomService.csproj",
+              "DocumentMoniker": "C:\\Users\\petry\\source\\repos\\RoomService\\RoomService\\RoomService.csproj",
+              "RelativeDocumentMoniker": "RoomService\\RoomService.csproj",
+              "ToolTip": "C:\\Users\\petry\\source\\repos\\RoomService\\RoomService\\RoomService.csproj",
+              "RelativeToolTip": "RoomService\\RoomService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-04T16:20:26.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PaginationDto.cs",
+              "DocumentMoniker": "C:\\Users\\petry\\source\\repos\\RoomService\\RoomService\\DTOs\\PaginationDto.cs",
+              "RelativeDocumentMoniker": "RoomService\\DTOs\\PaginationDto.cs",
+              "ToolTip": "C:\\Users\\petry\\source\\repos\\RoomService\\RoomService\\DTOs\\PaginationDto.cs",
+              "RelativeToolTip": "RoomService\\DTOs\\PaginationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T17:53:45.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "docker-compose.dcproj",
+              "DocumentMoniker": "C:\\Users\\petry\\source\\repos\\RoomService\\docker-compose.dcproj",
+              "RelativeDocumentMoniker": "docker-compose.dcproj",
+              "ToolTip": "C:\\Users\\petry\\source\\repos\\RoomService\\docker-compose.dcproj",
+              "RelativeToolTip": "docker-compose.dcproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-04T17:36:43.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\Users\\petry\\source\\repos\\RoomService\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "C:\\Users\\petry\\source\\repos\\RoomService\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-04T17:36:46.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAALkTAAAAAAAAAAAIwOQTAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-04-04T17:25:28.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\petry\\source\\repos\\RoomService\\RoomService\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "RoomService\\Services\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\petry\\source\\repos\\RoomService\\RoomService\\Services\\IAuthService.cs",
+              "RelativeToolTip": "RoomService\\Services\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T16:30:16.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AuthDtos.cs",
+              "DocumentMoniker": "C:\\Users\\petry\\source\\repos\\RoomService\\RoomService\\DTOs\\AuthDtos.cs",
+              "RelativeDocumentMoniker": "RoomService\\DTOs\\AuthDtos.cs",
+              "ToolTip": "C:\\Users\\petry\\source\\repos\\RoomService\\RoomService\\DTOs\\AuthDtos.cs",
+              "RelativeToolTip": "RoomService\\DTOs\\AuthDtos.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T16:28:09.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\petry\\source\\repos\\RoomService\\RoomService\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "RoomService\\Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\petry\\source\\repos\\RoomService\\RoomService\\Models\\Booking.cs",
+              "RelativeToolTip": "RoomService\\Models\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T16:12:06.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Slot.cs",
+              "DocumentMoniker": "C:\\Users\\petry\\source\\repos\\RoomService\\RoomService\\Models\\Slot.cs",
+              "RelativeDocumentMoniker": "RoomService\\Models\\Slot.cs",
+              "ToolTip": "C:\\Users\\petry\\source\\repos\\RoomService\\RoomService\\Models\\Slot.cs",
+              "RelativeToolTip": "RoomService\\Models\\Slot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T16:10:02.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Schedule.cs",
+              "DocumentMoniker": "C:\\Users\\petry\\source\\repos\\RoomService\\RoomService\\Models\\Schedule.cs",
+              "RelativeDocumentMoniker": "RoomService\\Models\\Schedule.cs",
+              "ToolTip": "C:\\Users\\petry\\source\\repos\\RoomService\\RoomService\\Models\\Schedule.cs",
+              "RelativeToolTip": "RoomService\\Models\\Schedule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T16:08:39.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\petry\\source\\repos\\RoomService\\RoomService\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "RoomService\\Models\\Room.cs",
+              "ToolTip": "C:\\Users\\petry\\source\\repos\\RoomService\\RoomService\\Models\\Room.cs",
+              "RelativeToolTip": "RoomService\\Models\\Room.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T16:07:59.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\petry\\source\\repos\\RoomService\\RoomService\\Models\\User.cs",
+              "RelativeDocumentMoniker": "RoomService\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\petry\\source\\repos\\RoomService\\RoomService\\Models\\User.cs",
+              "RelativeToolTip": "RoomService\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T16:07:26.024Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+@RoomService_HostAddress = http://localhost:8080
+
+### 1. Health Check
+GET {{RoomService_HostAddress}}/_info
+Accept: application/json
+
+###
+
+### 2. Dummy Login - Admin
+POST {{RoomService_HostAddress}}/dummyLogin
+Content-Type: application/json
+
+{
+  "role": "admin"
+}
+
+###
+
+### 3. Dummy Login - User
+POST {{RoomService_HostAddress}}/dummyLogin
+Content-Type: application/json
+
+{
+  "role": "user"
+}
+
+###
+
+### 4. Get All Rooms (требуется токен)
+GET {{RoomService_HostAddress}}/rooms/list
+Authorization: Bearer {eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMTExMTExMTEtMTExMS0xMTExLTExMTEtMTExMTExMTExMTExIiwibmFtZWlkIjoiMTExMTExMTEtMTExMS0xMTExLTExMTEtMTExMTExMTExMTExIiwicm9sZSI6ImFkbWluIiwianRpIjoiYzY0ZGQ0MDMtZTA3My00MjQ0LWE2MzQtYWIxMTA3ZjYzYTBjIiwiaWF0IjoxNzc1MzI3ODAyLCJuYmYiOjE3NzUzMjc4MDIsImV4cCI6MTc3NTMzMTQwMiwiaXNzIjoiUm9vbVNlcnZpY2UiLCJhdWQiOiJSb29tU2VydmljZUNsaWVudCJ9.IsuV98GVbAaWy_qTQe3mjmA6RLECUJd0OElfmCMtaGc}
+Accept: application/json
+
+###
+
+### 5. Create Room (только admin)
+POST {{RoomService_HostAddress}}/rooms/create
+Content-Type: application/json
+Authorization: Bearer {eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMTExMTExMTEtMTExMS0xMTExLTExMTEtMTExMTExMTExMTExIiwibmFtZWlkIjoiMTExMTExMTEtMTExMS0xMTExLTExMTEtMTExMTExMTExMTExIiwicm9sZSI6ImFkbWluIiwianRpIjoiYzY0ZGQ0MDMtZTA3My00MjQ0LWE2MzQtYWIxMTA3ZjYzYTBjIiwiaWF0IjoxNzc1MzI3ODAyLCJuYmYiOjE3NzUzMjc4MDIsImV4cCI6MTc3NTMzMTQwMiwiaXNzIjoiUm9vbVNlcnZpY2UiLCJhdWQiOiJSb29tU2VydmljZUNsaWVudCJ9.IsuV98GVbAaWy_qTQe3mjmA6RLECUJd0OElfmCMtaGc}
+
+{
+  "name": "Конференц-зал",
+  "description": "Большой зал с проектором и доской",
+  "capacity": 20
+}
+
+###
+
+### 6. Create Another Room
+POST {{RoomService_HostAddress}}/rooms/create
+Content-Type: application/json
+Authorization: Bearer {{adminToken}}
+
+{
+  "name": "Переговорка B",
+  "description": "Для маленьких команд",
+  "capacity": 6
+}
+
+###
+
+### 7. Create Room with invalid data (должен вернуть 400)
+POST {{RoomService_HostAddress}}/rooms/create
+Content-Type: application/json
+Authorization: Bearer {{adminToken}}
+
+{
+  "name": "",
+  "description": "Пустое имя"
+}
+
+###
